@@ -1,1 +1,1 @@
-# Classifica-o-de-Imagem-Usando-Rede-neural-Convolucional
+# Classificação-de-Imagem-Usando-Rede-neural-Convolucional
